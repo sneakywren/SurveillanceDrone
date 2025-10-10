@@ -1,4 +1,4 @@
-# Raspberry notes:
+# Raspberry notes
 
 ## Account
 
