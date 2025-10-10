@@ -1,6 +1,6 @@
-#Raspberry notes:
+# Raspberry notes:
 
-##Account
+## Account
 
 Password: hi123
 
