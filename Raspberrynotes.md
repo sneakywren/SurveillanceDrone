@@ -23,7 +23,11 @@
 ### SPI (Serial periferal interference)
 - MOSI GPI10: **19**
 - MISO GPI09: **21**
-  
+
+
+Dilip:
+raspberry intro to GPIO pins i liked
+https://projects.raspberrypi.org/en/projects/physical-computing/11
 
 
 
