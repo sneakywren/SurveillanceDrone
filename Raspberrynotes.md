@@ -12,10 +12,18 @@
 
 
 ### Power
-- 3.3V: *1  17*
-- 5V: *2  4*
-- Ground: *9  14  20  25  30  34  39*
-- 
+- 3.3V: **1  17**
+- 5V: **2  4**
+- Ground: **6  9  14  20  25  30  34  39**
+
+### I2C (Inter integrade circuit)
+- Serial data (SDA) GPIO2: **3**
+- Serial clock (SCL) GPI03: **5**
+
+### SPI (Serial periferal interference)
+- MOSI GPI10: **19**
+- MISO GPI09: **21**
+  
 
 
 
