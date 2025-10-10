@@ -2,15 +2,12 @@
 
 ## Account
 
-Password: hi123
+- Password: hi123
+- Pi ID: 
+-     user: matsuikenzo48@gmail.com
+-     password: dronehi123
 
-Pi ID: 
-
-  user: matsuikenzo48@gmail.com
-  
-  password:dronehi123
-
-## PINS
+## PINS (JB)
    3V3  (1) (2)  5V   
    
  GPIO2  (3) (4)  5V    
